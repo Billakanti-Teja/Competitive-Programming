@@ -1,0 +1,5 @@
+#List of Algorithms
+
+1> Dutch National Flag Algorithm -- To sort 0's,1's and 2's
+2> Boyer Moore's Algorithm-- To find majority element >N/2
+3> Kadane's Algorithm -- To find maximum subarray sum
